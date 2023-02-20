@@ -22,7 +22,7 @@ git clone https://github.com/rbnvsilva/dotfiles.git
 
 * Link files
 ```sh
-ln -s ~/.dotfiles/.zshrc ~/.zshrc
-ln -s ~/.dotfiles/.p10k.zsh ~/.p10k.zsh
-ln -s ~/.dotfiles/.gitconfig ~/.gitconfig
+ln -s ~/Documents/dotfiles/.zshrc ~/.zshrc
+ln -s ~/Documents/dotfiles/.p10k.zsh ~/.p10k.zsh
+ln -s ~/Documents/dotfiles/.gitconfig ~/.gitconfig
 ```
